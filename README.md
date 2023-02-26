@@ -1,2 +1,2 @@
-### Hi 👋
- My name is nicolas ledezma and I am a frontend developer. I am passionate about this branch of web development, creating solutions and interface flows for the best use of each use
+### Hi!👋
+ My name is Nicolas Ledezma and I am a frontend developer. I am passionate about web development and design, and creating solutions and interface flows. 
