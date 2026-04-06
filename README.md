@@ -1,4 +1,4 @@
-<!-- ================== HEADER ================== -->
+
 <h1 align="center">Hi 👋, I'm Nicolás Ledezma</h1>
 <h3 align="center">Frontend Developer & UI/UX Designer</h3>
 
@@ -6,7 +6,6 @@
   I build modern, user-centered digital products 🚀
 </p>
 
-<!-- ================== BADGES ================== -->
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js" />
@@ -16,9 +15,7 @@
   <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript" />
 </p>
 
----
 
-<!-- ================== ABOUT ME ================== -->
 ## 🧠 About Me
 <ul>
   <li>💻 Frontend Developer with UI/UX focus</li>
@@ -27,17 +24,11 @@
   <li>🌱 Currently learning Web3 & advanced frontend</li>
 </ul>
 
----
-
-<!-- ================== TECH STACK ================== -->
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,firebase,figma,git" />
 </p>
 
----
-
-<!-- ================== FEATURED PROJECTS ================== -->
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -67,6 +58,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorA=004080&colorB=00BFFF"/>
   </a>
 </p>
-
----
 
