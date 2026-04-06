@@ -60,7 +60,7 @@
 ## 🌐 Connect with Me
 
   <a href="https://www.instagram.com/nicolas.ledzz/?hl=es">
-    <img src="https://img.shields.io/badge/📸_Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
   <a href="https://www.linkedin.com/in/nicolasledezma/">
