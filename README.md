@@ -1,14 +1,14 @@
-# 👋 Hola, soy Nicolás Ledezma
+# 👋 Hi, I'm Nicolás Ledezma
 
 💻 Frontend Developer & UI/UX Designer  
-🎯 Enfocado en construir productos digitales modernos, funcionales y centrados en el usuario  
+🎯 Focused on building modern, functional, and user-centered digital products  
 
 ---
 
-## 🚀 Sobre mí
-Soy desarrollador frontend con enfoque en diseño UI/UX. Me especializo en crear experiencias completas: desde la idea y el diseño hasta la implementación final.
+## 🚀 About Me
+I'm a frontend developer with a strong focus on UI/UX design. I specialize in building complete digital experiences — from idea and design to final implementation.
 
-Me interesa construir productos reales que resuelvan problemas, combinando estética, usabilidad y rendimiento.
+I enjoy creating real-world products that solve problems by combining aesthetics, usability, and performance.
 
 ---
 
@@ -20,8 +20,8 @@ Me interesa construir productos reales que resuelvan problemas, combinando esté
 - Tailwind CSS
 
 ### UI/UX
-- Figma (Wireframing, Prototipos, Design Systems)
-- Diseño centrado en el usuario
+- Figma (Wireframing, Prototyping, Design Systems)
+- User-centered design
 
 ### Backend & Tools
 - Firebase / Supabase
@@ -30,33 +30,32 @@ Me interesa construir productos reales que resuelvan problemas, combinando esté
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Featured Projects
 
 ### 🧠 EduTrack
-Plataforma para la gestión académica de estudiantes  
-- Organización de tareas y calendario  
-- Seguimiento de progreso  
-- Diseño enfocado en productividad  
+Academic management platform for students  
+- Task organization & calendar  
+- Progress tracking  
+- Productivity-focused design  
 
-### 💈 Sistema de Agenda para Barbero
-Aplicación para gestión de citas  
-- Calendario interactivo  
-- Notificaciones automatizadas  
-- UI moderna y simple  
+### 💈 Barber Booking System
+Appointment management application  
+- Interactive calendar  
+- Automated notifications  
+- Clean and modern UI  
 
-### 🌐 Plataforma Web3
-Sistema de ahorro comunitario en blockchain  
-- Construido sobre Cardano  
-- UX accesible para usuarios no técnicos  
-
----
-
-## 🎯 Objetivo
-Seguir creciendo como desarrollador y diseñador, creando productos digitales que impacten a usuarios reales.
+### 🌐 Web3 Platform
+Community savings platform on blockchain  
+- Built on Cardano  
+- UX designed for non-technical users  
 
 ---
 
-## 🌐 Conecta conmigo
+## 🎯 Goal
+To grow as a developer and designer while building impactful digital products for real users.
+
+---
+
+## 🌐 Connect with Me
 - GitHub: https://github.com/Nicolasledezma
-- LinkedIn: [TU LINK]
-- Portafolio: [TU LINK]
+- LinkedIn: https://www.linkedin.com/in/nicolasledezma/
