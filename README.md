@@ -67,7 +67,7 @@
 <p align="center">
   <a href="https://github.com/Nicolasledezma">GitHub</a> •
   <a href="https://www.linkedin.com/in/nicolasledezma/">LinkedIn</a> •
-
+ <a href="https://www.instagram.com/nicolas.ledzz/?hl=es">Instagram</a> •
 </p>
 
 ---
