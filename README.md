@@ -46,9 +46,7 @@
 | 💈 **Barber App** | Booking system for barbers with notifications & calendar | Next.js, Firebase, Tailwind |
 | 🌐 **Web3 Platform** | Blockchain savings platform on Cardano with UX for non-technical users | React, Cardano, Web3, Tailwind |
 
----
 
-<!-- ================== GITHUB STATS ================== -->
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -59,20 +57,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolasledezma&theme=radical" />
 </p>
 
----
-
-<!-- ================== CONNECT ================== -->
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://github.com/Nicolasledezma">GitHub</a> •
-  <a href="https://www.linkedin.com/in/nicolasledezma/">LinkedIn</a> •
- <a href="https://www.instagram.com/nicolas.ledzz/?hl=es">Instagram</a> •
-</p>
-
----
-
-<!-- ================== TYPING ANIMATION ================== -->
 <p align="center">
   <a href="https://github.com/Nicolasledezma">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&colorA=181717&colorB=000000"/>
