@@ -1,61 +1,81 @@
-# 👋 Hi, I'm Nicolás Ledezma
+<!-- ================== HEADER ================== -->
+<h1 align="center">Hi 👋, I'm Nicolás Ledezma</h1>
+<h3 align="center">Frontend Developer & UI/UX Designer</h3>
 
-💻 Frontend Developer & UI/UX Designer  
-🎯 Focused on building modern, functional, and user-centered digital products  
+<p align="center">
+  I build modern, user-centered digital products 🚀
+</p>
+
+<!-- ================== BADGES ================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Design-Figma-purple?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Backend-Firebase-orange?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript" />
+</p>
 
 ---
 
-## 🚀 About Me
-I'm a frontend developer with a strong focus on UI/UX design. I specialize in building complete digital experiences — from idea and design to final implementation.
-
-I enjoy creating real-world products that solve problems by combining aesthetics, usability, and performance.
+<!-- ================== ABOUT ME ================== -->
+## 🧠 About Me
+<ul>
+  <li>💻 Frontend Developer with UI/UX focus</li>
+  <li>🎨 I design and build complete digital experiences</li>
+  <li>🚀 Passionate about clean UI and usability</li>
+  <li>🌱 Currently learning Web3 & advanced frontend</li>
+</ul>
 
 ---
 
+<!-- ================== TECH STACK ================== -->
 ## 🛠 Tech Stack
-
-### Frontend
-- React.js / Next.js
-- JavaScript / TypeScript
-- Tailwind CSS
-
-### UI/UX
-- Figma (Wireframing, Prototyping, Design Systems)
-- User-centered design
-
-### Backend & Tools
-- Firebase / Supabase
-- Git / GitHub
-- REST APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,firebase,figma,git" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+<!-- ================== FEATURED PROJECTS ================== -->
+## 🚀 Featured Projects
 
-### 🧠 EduTrack
-Academic management platform for students  
-- Task organization & calendar  
-- Progress tracking  
-- Productivity-focused design  
-
-### 💈 Barber Booking System
-Appointment management application  
-- Interactive calendar  
-- Automated notifications  
-- Clean and modern UI  
-
-### 🌐 Web3 Platform
-Community savings platform on blockchain  
-- Built on Cardano  
-- UX designed for non-technical users  
+| Project | Description | Tech Stack |
+|--------|------------|------------|
+| 🧠 **EduTrack** | Academic management platform for students. Tracks tasks, calendars & progress | React, Next.js, Firebase, Tailwind |
+| 💈 **Barber App** | Booking system for barbers with notifications & calendar | Next.js, Firebase, Tailwind |
+| 🌐 **Web3 Platform** | Blockchain savings platform on Cardano with UX for non-technical users | React, Cardano, Web3, Tailwind |
 
 ---
 
-## 🎯 Goal
-To grow as a developer and designer while building impactful digital products for real users.
+<!-- ================== GITHUB STATS ================== -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicolasledezma&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolasledezma&theme=radical" />
+</p>
 
 ---
 
+<!-- ================== CONNECT ================== -->
 ## 🌐 Connect with Me
-- GitHub: https://github.com/Nicolasledezma
-- LinkedIn: https://www.linkedin.com/in/nicolasledezma/
+
+<p align="center">
+  <a href="https://github.com/Nicolasledezma">GitHub</a> •
+  <a href="https://www.linkedin.com/in/nicolasledezma/">LinkedIn</a> •
+
+</p>
+
+---
+
+<!-- ================== TYPING ANIMATION ================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;UI%2FUX+Designer;Building+Digital+Products" />
+</p>
+
+---
+
