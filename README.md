@@ -59,10 +59,10 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://github.com/Nicolasledezma">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&colorA=181717&colorB=000000"/>
+  <a href="https://www.instagram.com/nicolas.ledzz/?hl=es">
+    <img src="https://img.shields.io/badge/📸_Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+</p>
   <a href="https://www.linkedin.com/in/nicolasledezma/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorA=004080&colorB=00BFFF"/>
   </a>
