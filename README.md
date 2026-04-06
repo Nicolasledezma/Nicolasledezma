@@ -74,7 +74,12 @@
 
 <!-- ================== TYPING ANIMATION ================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;UI%2FUX+Designer;Building+Digital+Products" />
+  <a href="https://github.com/Nicolasledezma">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&colorA=181717&colorB=000000"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nicolasledezma/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorA=004080&colorB=00BFFF"/>
+  </a>
 </p>
 
 ---
