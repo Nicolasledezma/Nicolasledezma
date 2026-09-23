@@ -31,4 +31,5 @@ If you want to collaborate on a project, talk about frontend development, or sha
 
 * 💼 **Upwork:** [Work with me](https://upwork.com/freelancers/~TU_PERFIL)
 * 👔 **LinkedIn:** [Nicolas Ledezma](https://linkedin.com/in/TU_LINKEDIN)
-* ✉️ **Email:** `tu_correo@ejemplo.com`
+* ✉️ **Email:** ledezmanicolas321@gmail.com
+  
