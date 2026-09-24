@@ -1,4 +1,4 @@
-# Hi, I'm Nicolas 👋
+# Hi, I'm Nico 👋
 
 **Frontend Developer & UI/UX Designer**, building web and mobile applications from Venezuela 🇻🇪.
 
