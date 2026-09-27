@@ -29,7 +29,6 @@ I focus on creating digital experiences that are clean, fast, and delightful to 
 
 If you want to collaborate on a project, talk about frontend development, or share tech ideas:
 
-* 💼 **Upwork:** [Work with me](https://upwork.com/freelancers/~TU_PERFIL)
 * 👔 **LinkedIn:** [Nicolas Ledezma](https://linkedin.com/in/TU_LINKEDIN)
 * ✉️ **Email:** ledezmanicolas321@gmail.com
   
